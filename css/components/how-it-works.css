@@ -1,0 +1,36 @@
+.how-it-works main {
+    background-color: #fff;
+    grid-area: 3;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    word-spacing: 0.1em;
+    line-height: 1.5;
+}
+
+.how-it-works main div {
+    margin: 15px;
+    width: 365px;
+}
+
+.how-it-works main img {
+    background-color:transparent;
+    width: 365px;
+    height: 228px;
+    padding: 10px;
+}
+
+.how-it-works main h3 {
+    padding: 10px;
+    width: 100%;
+    font-weight: 500;
+    font-size: 24px;
+    color: rgba(35,7,70,1);
+}
+
+.how-it-works main p {
+    padding: 10px;
+    width: 95%;
+}
+
