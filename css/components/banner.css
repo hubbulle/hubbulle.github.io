@@ -30,7 +30,10 @@
 }
 
 .banner .slogan h1 {
-    width: 674px;
+    width: 645px;
+    padding: 10px;
+    color: #FFF;
+    margin-left: 18%;
 }
 
 .banner .slogan span {
