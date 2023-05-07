@@ -14,3 +14,13 @@
     margin-top: 25px;
     margin-bottom: 50px;
 }
+
+.emphasis {
+    display: block;
+    background-color: rgba(137,109,172,1);
+    padding: 40px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #FFF;
+}
