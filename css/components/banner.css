@@ -13,8 +13,8 @@
         background-color: rgb(33,33,33);
         opacity: 0.6;
         width: 100%;
-        height: 100%;
-        align-content: baseline;
+        height: 430px;
+        position: absolute;
 }
 
 .banner .slogan {
@@ -27,6 +27,7 @@
     margin-top: 200px;
     word-wrap: break-word;
     text-size-adjust: 100%;
+    position: absolute;
 }
 
 .banner .slogan h1 {
