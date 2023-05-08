@@ -1,0 +1,46 @@
+.our-business main {
+    background-color: #fff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.our-business .content {
+    width: 45%;
+}
+
+.our-business .text-right {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+}
+
+.our-business .text-left {
+    width: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: right;
+}
+
+.our-business main img {
+    background-color:transparent;
+    width: 365px;
+    height: 228px;
+    padding: 10px;
+}
+
+.our-business main h3 {
+    padding-left: 15px;
+    width: 370px;
+    font-weight: 500;
+    font-size: 24px;
+    color: rgba(35,7,70,1);
+}
+
+.our-business main p {
+    padding-left: 15px;
+    width: 360px;
+}
+

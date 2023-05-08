@@ -40,3 +40,10 @@
 .banner .slogan span {
     font-weight: bold;
 }
+
+.banner .emphasis {
+    display: inline-flex;
+    position: relative;
+    width: 100%;
+    text-align: center;
+}
