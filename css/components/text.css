@@ -15,6 +15,10 @@
     margin-bottom: 50px;
 }
 
+.bold {
+    font-weight: 500;
+}
+
 .emphasis {
     display: block;
     background-color: rgba(137,109,172,1);
